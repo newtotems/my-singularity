@@ -6,4 +6,4 @@ tags:
 ---
 I consider myself the first Helian, but I hope there will be many. In fact I hope one day that all Humans will also be Helians.
 
-To be a Helian is to look 
+To be a Helian is to look [[test]]
